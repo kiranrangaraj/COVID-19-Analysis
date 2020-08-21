@@ -1,6 +1,8 @@
 # DO YOU TRUST YOUR DATA?
 ## COVID-19 comparison analysis utilizing three data sources
 
+Kiran Rangaraj, Emily Keymon and Reginald Malden
+
 ## Data comparison of the following states:
 * Connecticut
 * Florida
