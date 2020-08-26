@@ -7,8 +7,8 @@ Kiran Rangaraj, Emily Keymon and Reginald Malden
 * Georgia
 * Texas
 
-* New Jersey
 * New York
+* New Jersey
 * Connecticut
 
 ### Questions for Analysis:
