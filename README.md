@@ -1,4 +1,4 @@
-## COVID-19: An Examination of Data Accuracy and the Effectiveness of Local Mandates and Testing on Count
+### COVID-19: An Examination of Data Accuracy and the Effectiveness of Local Mandates and Testing on Count
 Kiran Rangaraj, Emily Keymon and Reginald Malden
 
 
