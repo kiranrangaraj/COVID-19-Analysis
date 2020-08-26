@@ -1,5 +1,4 @@
-# DO YOU TRUST YOUR DATA?
-## COVID-19 comparison analysis utilizing three data sources
+# COVID-19: An Examination of Data Accuracy and the Effectiveness of Local Mandates and Testing on Count
 
 Kiran Rangaraj, Emily Keymon and Reginald Malden
 
