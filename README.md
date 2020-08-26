@@ -40,8 +40,7 @@ An analysis of the accuracy of three COVID-19 data sources, in addition to how C
 * To approach this objective, we manipulated the data from source 1 to show new daily Covid-19 cases rather than total cases. We then created line graphs of date versus new daily counts. We then looked at the line graphs to see if there were any trends and considered these trends against state mandates or reopening phases that were being implemented at the time. Each states new daily counts was plotted separately and then examined in relation to the state mandates in effect at the time.
 * There appeared to be two different trends in the states data. Florida, Georgia, and Texas have spikes in daily Covid-19 counts from June onwards, whereas New York, New Jersey, and Connecticut have progressively lower daily counts in the same time frame.
 
-Independent T-Test
-* Ttest_indResult(statistic=12.73767146105426, pvalue=2.9448198049160806e-25)
+Independent T-Test - (statistic = 12.73767146105426, pvalue = 2.9448198049160806e-25)
 * Here we examine whether there is a statistically significant difference in average new daily Covid-19 cases of states that reopened bars, nightclubs, recreational venues, and laxed restaurant dine-in restrictions verses states that did not reopen under such parameters during the same time frame.
 * Sample 1 includes Florida, Georgia, and Texas. Since these 3 states implemented similar reopening guidelines on June 5th, June 1st, and May 22nd, respectively, we considered daily new Covid-19 cases from June 1st through July 17th.
 * Sample 2 includes New York, New Jersey, and Connecticut, all of which did not have such reopening guidelines.
@@ -49,8 +48,7 @@ Independent T-Test
 * The means generated for the 2 groups are noticeably different from each other. Group 1 had, on average, 4273 daily new cases of Covid-19 versus the 401 of group 2.
 * The t-test produced a p-value that is significantly smaller than 0.05, which indicates that the differences between the average COVID-19 daily cases in the two state groups is statistically significant. This indicates that the reopening of bars, nightclubs, recreational venues, and lax restaurant dine-in policies significantly contributed to higher transmissions of COVID-19.
 
-ANOVA
-* F_onewayResult(statistic=58.26540963214147, pvalue=3.0112022192395693e-41)
+ANOVA - (statistic = 58.26540963214147, pvalue = 3.0112022192395693e-41)
 * We then examined whether any of the 6 states was statistically signifcant.
 * We were able to establish that the policies in the 2 groups of states had a profound impact on Covid-19 count, however we did not consider if any of 6 the states was significantly different than the others.
 * Creating a boxplot helps to visualize how the states compare in terms of daily new Covid-19 case distribution, the central values, and the variability.
