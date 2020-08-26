@@ -1,4 +1,4 @@
-# COVID-19: An Examination of Data Accuracy and the Effectiveness of Local Mandates and Testing on Count
+# COVID-19: An Examination of Data Accuracy and the Effectiveness of Local Mandates and Testing on Preventing Transmission
 Kiran Rangaraj, Emily Keymon and Reginald Malden
 
 An analysis of the accuracy of three COVID-19 data sources, in addition to how COVID-19 count in six US states changed in regard to the percentage of the population being tested, as well as the state and local government mandates in effect during the reopening phases. Data was initially pulled from health department, county, and state CSV datafiles and filtered into a dataset that contained the six states. 
