@@ -6,7 +6,7 @@ This project analyzed three different aspects of COVID-19 in the United States f
 
 The six states that were chosen for this study are Florida, Georgia, Texas, New York, New Jersey, and Connecticut. The first three states mentioned differed significantly from the last three states in their implementation of mandates that restricted the local populations activities. The governors of New York, New Jersey and Connecticut took collective measures to contain COVID-19 within their region of the United States. Consequently, their shutdown dates are within a days of each other. They also approached the progressive reopening of their states with similar degrees of restrictions on businesses and the public. Whereas, in Florida, Georgia and Texas, the governors imposed significantly less mandates on the public and businesses during the phases of reopening. The comparison of these two groups of states allows an examination into the effectiveness of certain mandates on containing COVID-19 spread.
  
-State Statistics
+State Statistics:
 * Florida was ranked second highest in total positive case counts for all US states. Florida's cases started to increase over 1,000 per day on 6/6/20 with the largest single day spike so far occurring on 7/12/20 at 15,135 new cases. The 7-day average was 11,006 new cases per day at the time of this study.  
 * Georgia was ranked eigth highest in the US. The largest daily spike occurred on 7/18/20 at 4,689 new cases per day. The 7-day average at the time of this study was 3,495 new cases per day.
 * Texas was ranked third highest in the US. Texas started seeing daily cases over 1,000 starting 5/5/20 and the largest single day spike so far occurred on 7/17/20 at 14,916 new cases.  The 7-day average is at the time of this study was 9,893 new cases per day.
@@ -23,7 +23,7 @@ Data was initially extracted from the from the health department, county, and st
 ---
 
 ## Analysis & Conclusions ##
-### How do the three data sets compare?  Do they reveal either consistencies or inconsistencies?
+### How did the three data sets compare and did they reveal consistencies or inconsistencies:
 * A line plot was produced using each of the three different data sources. The line plots examine date versus total Covid-19 cases in the 6 states. The line plots were compared to see if there were any descrepancies in the data.
 * The three data sets selected for this analysis proved to be staistically significantly similar. The histogram showed the data sets overlayed each other indicating the data sets are similar. For further analysis, a t-test was performed. This resulted in t-scores with p-values larger than .05, therefore, the difference found is not statistically significanlty different.
 
