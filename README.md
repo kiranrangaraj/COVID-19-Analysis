@@ -27,13 +27,28 @@ Data was initially extracted from the from the health department, county, and st
 * A line plot was produced using each of the three different data sources. The line plots examine date versus total Covid-19 cases in the 6 states. The line plots were compared to see if there were any descrepancies in the data.
 * The three data sets selected for this analysis proved to be staistically significantly similar. The histogram showed the data sets overlayed each other indicating the data sets are similar. For further analysis, a t-test was performed. This resulted in t-scores with p-values larger than .05, therefore, the difference found is not statistically significanlty different.
 
+<p align="center">
+   <img src="Group-Project/output_data/CombinedDataSource.png" width="400">
+</p>
+
 ### What % of population was tested and how much did testing vary from state to state? Did the testing percentages correlate to COVID-19 count?
 * The percentage of each states population that was tested over time was plotted and then compared. Additionally, a linear regression was performed to see if the average testing percentage of each state correlates to the average daily COVID-19 count.
 * The correlation coefficient between testing percentages and COVID-19 count was only 0.12, which indicates there is no relationship between the two variables. This is also demonstrated in the scatter plot where the data points are spread all over rather than being clustered in a linear fashion. The r-squared value of 0.0136 indicates that only 1.36% of the movements of daily COVID-19 count (dependent variable) are explained by the movements in the testing percentage (independent variable). Thus, there is no relationship between the two at all.
 
+<p align="center">
+  <img src="Group-Project/output_data/TestingAvg.png" width="400">
+  <img src="Group-Project/output_data/LinearRegression.png" width="400">
+</p>
+
 ### Did the state shutdown and reopening timings of these six states impact the daily new COVID-19 cases? Did the reopening of specific businesses in certain states cause COVID-19 transmission to skyrocket?
 * The data from source 1 was formatted to show new daily COVID-19 cases rather than total cases. Line graphs of date versus new daily counts were then created. Each line graph was visually compared to see if there were any trends. Trends were considered against state mandates or reopening phases that were being implemented at the time. Each states new daily counts was plotted separately and then examined in relation to the state mandates in effect at the time.
 * There appeared to be two different trends in the states data. Florida, Georgia, and Texas have spikes in daily COVID-19 counts from June onwards, whereas New York, New Jersey, and Connecticut have progressively lower daily counts in the same time frame.
+
+<p align="center">
+  <img src="Group-Project/output_data/CombinedStateDailyCount.png" width="400">
+  <img src="Group-Project/output_data/Reopening1stGrp.png" width="1000">
+  <img src="Group-Project/output_data/Reopening2ndGrp.png" width="1000">
+</p>
 
 #### * Independent T-Test - (statistic = 12.73767146105426, pvalue = 2.9448198049160806e-25)
 * Using daily new COVID-19 case counts, the statistical significance of states reopening bars, nightclubs, recreational venues, and having lax restaurant dine-in restrictions was examined against states that did not reopen under such parameters under the same time frame.
@@ -42,12 +57,20 @@ Data was initially extracted from the from the health department, county, and st
 * The Independent T-Test compared the means of the 2 samples (indepedent populations) for statistically significant differences and found that the means are noticeably different from each other. Group 1 had, on average, 4273 daily new cases of Covid-19 versus the 401 of group 2.
 * The T-Test produced a p-value that is significantly smaller than 0.05, which indicates that the differences between the average COVID-19 daily cases in the two state groups is statistically significant. This indicates that the reopening of bars, nightclubs, recreational venues, and lax restaurant dine-in policies significantly contributed to higher transmissions of COVID-19.
 
+<p align="center">
+    <img src="Group-Project/output_data/IndependentTTest.png" width="400">
+</p>
+
 #### * ANOVA - (statistic = 58.26540963214147, pvalue = 3.0112022192395693e-41)
 * In order to cross-examine the accuracy of the Independent T-test, an ANOVA was performed to consider if any of the six states were significantly different statistically from the others.  
 * A boxplot was created to help visualize how the states compared in terms of daily new Covid-19 case distribution, the central values, and the variability.
 * Florida, Georgia and Texas had much higher daily Covid-19 counts than Connecticut, New Jersey, and New York. The daily COVID-19 highest and lowest values of Florida, Georgia and Texas were both higher than Connecticut, New Jersey, and New York in the corresponding values. These 3 states also had a median COVID-19 count that was higher than the other 3 states, and they also had an immensely larger interquartile range.
 * These results suggested that Florida, Georgia, and Texas were consistently experiencing higher Covid-19 counts than Connecticut, New Jersey, and New York. The higher variances in these 3 states also suggested that they experienced much larger fluctuations in the daily Covid-19 counts between June 1st and July 17th.
 * A significance level of 0.05 indicates a 5% risk of concluding that a difference exists when there is no actual difference. Since the p-value here is drastically lower than the significance level, the null hypothesis was rejected with no risk and concluded that not all of the 6 states Covid-19 means are equal.
+
+<p align="center">
+    <img src="Group-Project/output_data/ANOVA.png" width="1000">
+</p>
 
 ---
 
