@@ -22,7 +22,7 @@ State Statistics:
 
 ## Process ##
 
-Data was initially extracted from the from the health department, county, and state in the form of CSV files. The CSV files were then loaded into Python as Pandas DataFrames via Jupyter Notebook. Data cleanup was performed to remove null values, filter for the time frame and six states being studied, and format column names and data types to be synonymous for all 3 sources. Statistical analysis was then performed using NumPy, SciPy, and SciPy.stats, and Matplotlib was used to create visualizations.     
+Data was initially extracted from the from the health department, county, and state in the form of CSV files. The CSV files were then loaded into Python as Pandas DataFrames via Jupyter Notebook. Data cleanup was performed to remove null values, filter for the time frame and six states being studied, and format column names and data types to be synonymous for all 3 sources. Statistical analysis was then performed using NumPy and SciPy, and Matplotlib was used to create visualizations.     
 
 ---
 
