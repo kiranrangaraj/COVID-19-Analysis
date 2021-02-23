@@ -35,7 +35,7 @@ Data was initially extracted from the from the health department, county, and st
    <img src="Group-Project/output_data/CombinedDataSource.png" width="400">
 </p>
 
-### What % of population was tested and how much did testing vary from state to state? Did the testing percentages correlate to COVID-19 count?
+### What percentage of the population was tested and how much did testing vary from state to state? Did the testing percentages correlate to COVID-19 count?:
 * The percentage of each states population that was tested over time was plotted and then compared. Additionally, a linear regression was performed to see if the average testing percentage of each state correlates to the average daily COVID-19 count.
 * The correlation coefficient between testing percentages and COVID-19 count was only 0.12, which indicates there is no relationship between the two variables. This is also demonstrated in the scatter plot where the data points are spread all over rather than being clustered in a linear fashion. The r-squared value of 0.0136 indicates that only 1.36% of the movements of daily COVID-19 count (dependent variable) are explained by the movements in the testing percentage (independent variable). Thus, there is no relationship between the two at all.
 
@@ -44,7 +44,7 @@ Data was initially extracted from the from the health department, county, and st
   <img src="Group-Project/output_data/LinearRegression.png" width="400">
 </p>
 
-### Did the state shutdown and reopening timings of these six states impact the daily new COVID-19 cases? Did the reopening of specific businesses in certain states cause COVID-19 transmission to skyrocket?
+### Did the shutdown and reopening timings of these six states impact the daily new COVID-19 cases? Did the reopening of certain business types cause COVID-19 transmission to skyrocket?
 * The data from source 1 was formatted to show new daily COVID-19 cases rather than total cases. Line graphs of date versus new daily counts were then created. Each line graph was visually compared to see if there were any trends. Trends were considered against state mandates or reopening phases that were being implemented at the time. Each states new daily counts was plotted separately and then examined in relation to the state mandates in effect at the time.
 * There appeared to be two different trends in the states data. Florida, Georgia, and Texas have spikes in daily COVID-19 counts from June onwards, whereas New York, New Jersey, and Connecticut have progressively lower daily counts in the same time frame.
 
