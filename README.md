@@ -1,4 +1,4 @@
-## COVID-19: An Examination of Data Accuracy and the Effectiveness of Testing and Local Mandates on Transmission Prevention
+# COVID-19: A Statistical Analysis of Data Accuracy, Testing, and Local Mandate Impact on Transmission Prevention
 
 <p align="center">
    <img src="Group-Project/output_data/map.png" width="600">
