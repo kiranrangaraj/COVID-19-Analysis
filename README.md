@@ -1,5 +1,9 @@
 ## COVID-19: An Examination of Data Accuracy and the Effectiveness of Testing and Local Mandates on Transmission Prevention
 
+<p align="center">
+   <img src="Group-Project/output_data/map.png" width="600">
+</p>
+
 ## Summary ##
 
 This project analyzed three different aspects of COVID-19 in the United States from March 1, 2020 until July 22, 2020. The first was an analysis the accuracy of three distinct COVID-19 data sources (health department, county, and state), in order to see if discrepancies existed in the reporting and/or recording of cases and deaths. Secondly, COVID-19 cases in six states were each compared to their respective population percentages being tested, in order to consider any correlations that may have existed between the two factors. Finally, state and local government mandates in effect during the sequential reopening phases in these same six states were analyzed in order to consider the possible impact they had on transmission prevention. 
