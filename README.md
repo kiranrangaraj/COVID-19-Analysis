@@ -44,7 +44,7 @@ Data was initially extracted from the from the health department, county, and st
   <img src="Group-Project/output_data/LinearRegression.png" width="400">
 </p>
 
-### Did the shutdown and reopening timings of these six states impact the daily new COVID-19 cases? Did the reopening of certain business types cause COVID-19 transmission to skyrocket?
+### Did the shutdown and reopening timings of these six states impact the daily new COVID-19 cases? Did the reopening of certain business types cause COVID-19 transmission to skyrocket?:
 * The data from source 1 was formatted to show new daily COVID-19 cases rather than total cases. Line graphs of date versus new daily counts were then created. Each line graph was visually compared to see if there were any trends. Trends were considered against state mandates or reopening phases that were being implemented at the time. Each states new daily counts was plotted separately and then examined in relation to the state mandates in effect at the time.
 * There appeared to be two different trends in the states data. Florida, Georgia, and Texas have spikes in daily COVID-19 counts from June onwards, whereas New York, New Jersey, and Connecticut have progressively lower daily counts in the same time frame.
 
