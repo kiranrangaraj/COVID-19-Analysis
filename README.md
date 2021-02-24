@@ -90,7 +90,7 @@ Data was initially extracted from the from the health department, county, and st
 
 ## Technologies Used ##
 * Jupyter Notebook
-* Python - Pandas, Matplotlib, SciPy, NumPy
+* Python - Pandas, Matplotlib, SciPy, NumPy, Datetime
 * GMaps API
 * CSV file
 
