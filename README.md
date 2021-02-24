@@ -97,4 +97,4 @@ Data was initially extracted from the from the health department, county, and st
 ---
 
 ## Authors ##
-Kiran Rangaraj, Emily Keymon, and Reginald Malden - Data Analytics Bootcamp - Vanderbilt University - 2020
+Kiran Rangaraj, Emily Keymon, and Reginald Malden - Vanderbilt University 2020
