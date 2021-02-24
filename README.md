@@ -55,7 +55,7 @@ Data was initially extracted from the from the health department, county, and st
 </p>
 
 #### * Independent T-Test - (statistic = 12.73767146105426, pvalue = 2.9448198049160806e-25)
-* Using daily new COVID-19 case counts, the statistical significance of states reopening bars, nightclubs, recreational venues, and having lax restaurant dine-in restrictions was examined against states that did not reopen under such parameters under the same time frame.
+* Using daily new COVID-19 case counts, the statistical significance of states reopening bars, nightclubs, recreational venues, and having lax restaurant dine-in restrictions was examined against states that did not reopen under such parameters during the same time frame.
 * Sample 1 included Florida, Georgia, and Texas. Since these 3 states implemented similar reopening guidelines on June 5th, June 1st, and May 22nd, respectively, new daily COVID-19 cases was considered from June 1st through July 17th.
 * Sample 2 includes New York, New Jersey, and Connecticut, all of which that did not have such reopening guidelines.
 * The Independent T-Test compared the means of the 2 samples (indepedent populations) for statistically significant differences and found that the means are noticeably different from each other. Group 1 had, on average, 4273 daily new cases of Covid-19 versus the 401 of group 2.
