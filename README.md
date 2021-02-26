@@ -1,4 +1,4 @@
-# COVID-19: A Statistical Analysis of Data Accuracy, Impact of Testing, and Effectiveness of State Mandates on Transmission Prevention
+# COVID-19: A Statistical Analysis of Data Accuracy, Impact of Testing, and Effectiveness of State Mandates on Preventing Transmission
 
 <p align="center">
    <img src="Group-Project/output_data/map.png" width="600">
