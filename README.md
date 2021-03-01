@@ -97,6 +97,8 @@ Data was initially extracted from the from the health department, county, and st
 ---
 
 ## Authors ##
-Kiran Rangaraj - LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/) 
+Kiran Rangaraj - LinkedIn: [@Kiran Rangaraj](https://www.linkedin.com/in/kiranrangaraj/)
+
 Emily Keymon - LinkedIn: [@Emily Keymon](https://www.linkedin.com/in/ekeymon20/)
+
 Reginald Malden - LinkedIn: [@Reginald Malden](https://www.linkedin.com/in/reginald-malden-5258161b7/)
